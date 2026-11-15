@@ -7,3 +7,6 @@ node_modules/
 /*.pdf
 public/
 .vercel/
+
+.vercel
+.env*
