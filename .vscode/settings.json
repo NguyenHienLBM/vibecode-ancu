@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "**/.*": false,
+    "**/.git": false,
+    "**/.codex": false,
+    "**/.openai": false,
+    "**/.vscode": false
+  },
+  "explorer.excludeGitIgnore": false
+}
